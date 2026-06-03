@@ -1,0 +1,25 @@
+body{
+    background-color: beige;
+}
+.box{
+    margin-top: 100px;
+    margin-left: 350px;
+    height: 400px;
+    width: 550px;
+    background-color: ivory;
+}
+#h1{
+    padding-left: 130px;
+}
+#cal{
+    text-align: center;
+    background-color: green;
+    width: 90%;
+    border: none;
+    height: 35px;
+     display: block;
+     margin: 0 auto;
+}
+.tot{
+    margin-top: 30px;
+}
